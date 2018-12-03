@@ -8,3 +8,22 @@ button {
   background-color: rgb(50,50,50);
   border-color: rgb(200,200,200);
 }
+nav {
+  
+  
+}
+a:link {
+    background-color: rgb(50,50,50);
+}
+
+a:visited {
+    background-color: rgb(50,50,50);
+}
+
+a:hover {
+    background-color: rgb(100,100,100);
+}
+
+a:active {
+    background-color: rgb(50,50,50);
+} 

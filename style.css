@@ -1,0 +1,10 @@
+body {
+  background: rgb(50,50,50);
+  font-family: Arial;
+  color: rgb(200,200,200);
+}
+button {
+  border-radius: 5px;
+  background-color: rgb(50,50,50);
+  border-color: rgb(200,200,200);
+  }

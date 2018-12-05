@@ -9,6 +9,10 @@ button {
   border-color: rgb(200,200,200);
   color: rgb(200,200,200);
 }
+flex-container {
+  display: flex;
+  flex-direction: row;
+}
 nav {
   
   

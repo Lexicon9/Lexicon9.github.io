@@ -12,28 +12,16 @@ button {
 .flex-container {
   display: flex;
   flex-direction: row;
-  margin: 10px
+  : 10px
 }
-nav {
-  
-  
-}
-a:link {
+a:link, a:visited, a:active {
+  padding: 14px 12px 25px 12px;
+  text-decoration: none;
+  display: inline-block;
   background-color: rgb(50,50,50);
   color: rgb(200,200,200);
 }
 
-a:visited {
-  background-color: rgb(50,50,50);
+a:hover, a:active {
   color: rgb(200,200,200)
 }
-
-a:hover {
-  background-color: rgb(100,100,100);
-  color: rgb(200,200,200)
-}
-
-a:active {
-  background-color: rgb(50,50,50);
-  color: rgb(200,200,200);
-} 

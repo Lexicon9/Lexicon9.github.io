@@ -9,7 +9,7 @@ button {
   border-color: rgb(200,200,200);
   color: rgb(200,200,200);
 }
-flex-container {
+.flex-container {
   display: flex;
   flex-direction: row;
 }

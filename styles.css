@@ -1,6 +1,7 @@
 body {
   background: rgb(50,50,50);
   font-family: Arial;
+  justify-content: center;
   color: rgb(200,200,200);
 }
 button {
@@ -14,6 +15,21 @@ nav {
   flex-direction: row;
   border: 20px
 }
+.contact:link, .contact:visited {
+  width: 200px;
+  padding: 15px 10px 15px 10px;
+  border: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color: rgb(200,200,200);
+  color: rgb(50,50,50);
+}
+.contact:hover, .contact:active {
+  background-color: rgb(50,50,50);
+  color: rgb(200,200,200);
+}
+
 .bar {
   width: 100%;
   height: 18px;
